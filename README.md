@@ -1,18 +1,18 @@
-# NODE.JS & Isomorphic React.JS Template
+### NODE.JS & Isomorphic React.JS Template
 
 
-# Framework
+### Framework
 
 - [Express]
 - [React.js]
 - [Webpack]
 
 
-# Start
+### Start
 
 ```
 $ npm install
 $ npm start
 ```
 
-Open browswer http://localhost:3000
+- Open browswer http://localhost:3000
